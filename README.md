@@ -84,24 +84,4 @@ Automating feedback analysis enables businesses like PhonePe to:
 *   **Set Measurable KPIs:** Establish key performance indicators around reducing specific complaints (e.g., decrease negative sentiment related to 'transaction failures' by 10%) or increasing positive feedback for new features.
 *   **Enhance User Retention:** Proactively address user pain points to foster a more positive and engaged user base.
 
-## Setup & Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-3.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Note: You may need to download additional resources for NLTK or spaCy if used: `python -m nltk.downloader stopwords punkt wordnet`, etc.)*
-
-## Usage
-
-*(Provide instructions on how to run your analysis. This might involve running specific Python scripts or Jupyter Notebooks.)*
